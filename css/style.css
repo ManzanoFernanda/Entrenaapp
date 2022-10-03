@@ -1,0 +1,344 @@
+
+body{
+    text-decoration: none;
+    list-style:none;
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+}
+.anton{
+    font-family: 'Anton', sans-serif;
+}
+.oswald{
+    font-family: 'Oswald', sans-serif;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.menucolor{
+    background: #1C1C1C;
+}
+.Entrenapp{
+    font-size: 25px;
+    padding-left: 5% !important;
+}
+.listaMenu{
+    padding-left:48%  !important;
+}
+.servicioMenu{
+    padding-left: 3% !important;
+}
+.sizeiconmenu{
+    font-size: 20px;
+    padding-left: 5% !important;
+}
+@media (max-width: 991px){
+    .listaMenu{
+        padding-left: 0 !important;
+    }
+}
+
+
+
+.fondocont1{
+    background: url("../img/1.jpg")no-repeat center top ;
+    background-size: cover;
+    height: 700px !important;
+}
+.textprogress{
+    padding-left: 6% !important;
+    padding-top: 33% !important;
+    color: #FFF;
+}
+.progressh1{
+    font-size: 75px !important;
+    font-weight: bold;
+}
+
+
+.serviciosCont2{
+    background: #ff6abc ;
+}
+
+.besth1{
+    font-size: 40px !important;
+    font-weight: bold;
+    padding-top: 5%;
+    color: #FFF;
+}
+.bestp{
+    font-size: 15px;
+    padding: 2% 18% 3% 18%;
+    color: #FFF;
+}
+.borderCard{
+    padding: 0 !important;
+    border: #FFF solid 1px ;
+    width: 100% !important;
+    max-width: 400px !important;
+}
+.tituloServicios{
+    background:#b6007f ;
+    margin: 0 !important;
+    text-align: center;
+    color: #FFF;
+    font-size: 35px;
+    padding: 1%;
+}
+.conceptoServicios{
+    background: #FFF;
+    margin: 0 !important;
+    font-size: 14px;
+    padding: 4% 4% ;
+}
+.linea2Servicios{
+    padding: 0% 5% 4% 5%;
+}
+.distanciaServicios{
+    padding-bottom: 5%;
+}
+
+
+
+
+
+.consultaCont3{
+    background: #1C1C1C ;
+    margin: 0 !important;
+}
+.consultah1servicio{
+    padding-top: 5% !important;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 40px !important;
+}
+.consultapservicio{
+    padding: 2% 18% 3% 18%;
+    font-size: 15px;
+    color: #656565;
+}
+.paddingiconconsulta{
+    padding-top: 5%;
+    padding-left: 8%;
+    margin: 0 !important;
+    font-size: 60px;
+    color: rgb(165, 81, 140);
+}
+.iconConsutla{
+    float: left;
+    margin: 5% ;
+    padding-top: 0 !important;
+    font-size: 50px;
+    color: #e702d4;
+}
+.consultaTitulo{
+    color: #FFF;
+    font-weight: bold;
+    font-size: 30px;
+}
+.consultaConcepto{
+    color: #826cff;
+    font-size: 15px;
+    padding-right: 8%;
+}
+.consulta2{
+    padding: 2% 5% 2% 5%;
+}
+.consulta3{
+    padding: 2% 5% 5% 5%;
+}
+
+
+
+
+
+.estudiocont4{
+    background: #656565 !important;
+}
+.estudio1{
+    padding: 3% 18% 3% 18%;
+}
+.h1estudio{
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 3%;
+    color: #FFF;
+}
+.pestudio{
+    color: #FFF;
+    font-size: 15px;
+}
+.listaOpciones{
+    list-style-type:none;
+    text-decoration: none;
+    padding: 0 !important;
+}
+.estudio2{
+    padding: 1% 5% 3% 5%;
+}
+.iconEstudio{
+    float: left;
+    padding-right: 2%;
+    color: #8d0f78;
+    font-size:20px;
+}
+.itemlista{
+    padding-bottom: 1%;
+}
+.pitem{
+    color: #F2F2F2;
+    font-size: 15px;
+    margin: 0 !important;
+}
+.conceptoExpress{
+    color: #F2F2F2;
+    font-size:15px;
+}
+.botonbloqueado{
+    margin-top: 2%;
+    cursor:no-drop !important;
+}
+.imgestudio{
+    width: 100%;
+    max-width: 550px;
+    height: auto;
+}
+
+
+
+
+
+.footercont5{
+    background:#1C1C1C;   
+}
+.footerlinea{
+    padding: 3% 5% 0% 5% !important;
+}
+.footerh1{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFF;
+
+}
+.pfooter{
+    color: #bb2aff;
+    font-size: 15px;
+}
+.hrlinea{
+    width: 100% !important;
+    height: 1px;
+    background: #656565;
+    padding: 0 !important;
+}
+.paddinghr{
+    padding: 0 !important;
+}
+.copyright{
+    color: #FFF;
+    font-size: 12px;
+}
+.footerlineacopyright{
+    padding: 2% 5% 2% 5% !important;
+}
+.botonsocial{
+    background: #1C1C1C;
+    color: #FFF;
+    margin-left: 2%;
+}
+
+
+
+@media (max-width:1140px) {
+    .fondocont1{
+        height: 550px !important;
+    }
+    .textprogress{
+        padding-top: 25% !important;
+    }
+}
+
+
+@media ( max-width:992px ){
+
+    .fondocont1{
+        height: 450px !important;
+    }
+    .textprogress{
+        padding-top: 20% !important;
+    }
+}
+
+
+@media ( max-width:800px){
+
+    .fondocont1{
+        height: 350px !important ;
+    }
+    .textprogress{
+        padding-top: 20% !important;
+    }
+    .progressh1{
+        font-size:50px !important;
+    }
+
+}
+
+@media ( max-width:600px ){
+
+    .fondocont1{
+        height: 250px !important ;
+    }
+    .textprogress{
+        padding-top: 20% !important;
+    }
+    .progressh1{
+        font-size:30px !important;
+    }
+
+
+}
+
+@media ( max-width:400px ){
+    
+    .fondocont1{
+        height: 220px !important ;
+    }
+    .textprogress{
+        padding-top: 25% !important;
+    }
+    .progressh1{
+        font-size:28px !important;
+    }
+
+}
+
+@media ( max-width:360px ){
+    
+    .fondocont1{
+        height: 200px !important ;
+    }
+    .textprogress{
+        padding-top: 30% !important;
+    }
+    .progressh1{
+        font-size:25px !important;
+    }
+
+}
+.imgresponsive{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+@media (max-width: 767px){
+    .borderCard{
+        margin: 0 auto !important;   
+    }    
+}
